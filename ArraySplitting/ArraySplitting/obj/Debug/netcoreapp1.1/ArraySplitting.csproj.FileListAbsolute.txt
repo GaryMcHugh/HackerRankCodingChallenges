@@ -1,0 +1,10 @@
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp1.1\ArraySplitting.deps.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp1.1\ArraySplitting.runtimeconfig.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp1.1\ArraySplitting.runtimeconfig.dev.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp1.1\ArraySplitting.dll
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp1.1\ArraySplitting.pdb
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp1.1\ArraySplitting.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp1.1\ArraySplitting.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp1.1\ArraySplitting.AssemblyInfo.cs
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp1.1\ArraySplitting.dll
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp1.1\ArraySplitting.pdb

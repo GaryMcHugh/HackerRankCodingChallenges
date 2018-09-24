@@ -1,0 +1,8 @@
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\bin\Debug\netcoreapp2.0\primeFactors.deps.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\bin\Debug\netcoreapp2.0\primeFactors.runtimeconfig.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\bin\Debug\netcoreapp2.0\primeFactors.runtimeconfig.dev.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\bin\Debug\netcoreapp2.0\primeFactors.dll
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\obj\Debug\netcoreapp2.0\primeFactors.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\obj\Debug\netcoreapp2.0\primeFactors.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\obj\Debug\netcoreapp2.0\primeFactors.AssemblyInfoInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\primeFactors\primeFactors\obj\Debug\netcoreapp2.0\primeFactors.AssemblyInfo.cs

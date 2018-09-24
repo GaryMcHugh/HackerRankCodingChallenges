@@ -1,0 +1,10 @@
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\bin\Debug\netcoreapp1.1\coinChangeProblem.deps.json
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\bin\Debug\netcoreapp1.1\coinChangeProblem.runtimeconfig.json
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\bin\Debug\netcoreapp1.1\coinChangeProblem.runtimeconfig.dev.json
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\bin\Debug\netcoreapp1.1\coinChangeProblem.dll
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\bin\Debug\netcoreapp1.1\coinChangeProblem.pdb
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\obj\Debug\netcoreapp1.1\coinChangeProblem.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\obj\Debug\netcoreapp1.1\coinChangeProblem.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\obj\Debug\netcoreapp1.1\coinChangeProblem.AssemblyInfo.cs
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\obj\Debug\netcoreapp1.1\coinChangeProblem.dll
+C:\Users\mchugg01\documents\visual studio 2017\Projects\coinChangeProblem\coinChangeProblem\obj\Debug\netcoreapp1.1\coinChangeProblem.pdb

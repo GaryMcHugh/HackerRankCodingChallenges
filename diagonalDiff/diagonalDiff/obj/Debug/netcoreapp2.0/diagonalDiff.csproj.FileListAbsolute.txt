@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\bin\Debug\netcoreapp2.0\diagonalDiff.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\bin\Debug\netcoreapp2.0\diagonalDiff.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\bin\Debug\netcoreapp2.0\diagonalDiff.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\bin\Debug\netcoreapp2.0\diagonalDiff.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\bin\Debug\netcoreapp2.0\diagonalDiff.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\obj\Debug\netcoreapp2.0\diagonalDiff.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\obj\Debug\netcoreapp2.0\diagonalDiff.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\obj\Debug\netcoreapp2.0\diagonalDiff.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\obj\Debug\netcoreapp2.0\diagonalDiff.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\obj\Debug\netcoreapp2.0\diagonalDiff.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\diagonalDiff\diagonalDiff\obj\Debug\netcoreapp2.0\diagonalDiff.pdb

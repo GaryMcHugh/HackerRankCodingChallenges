@@ -1,0 +1,7 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\bin\Debug\SumsAndIndexs.exe.config
+c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\bin\Debug\SumsAndIndexs.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\bin\Debug\SumsAndIndexs.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.pdb

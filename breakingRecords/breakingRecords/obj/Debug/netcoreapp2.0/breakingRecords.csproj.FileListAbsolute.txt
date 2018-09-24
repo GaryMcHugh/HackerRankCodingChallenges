@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\bin\Debug\netcoreapp2.0\breakingRecords.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\bin\Debug\netcoreapp2.0\breakingRecords.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\bin\Debug\netcoreapp2.0\breakingRecords.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\bin\Debug\netcoreapp2.0\breakingRecords.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\bin\Debug\netcoreapp2.0\breakingRecords.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\obj\Debug\netcoreapp2.0\breakingRecords.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\obj\Debug\netcoreapp2.0\breakingRecords.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\obj\Debug\netcoreapp2.0\breakingRecords.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\obj\Debug\netcoreapp2.0\breakingRecords.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\obj\Debug\netcoreapp2.0\breakingRecords.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\breakingRecords\breakingRecords\obj\Debug\netcoreapp2.0\breakingRecords.pdb

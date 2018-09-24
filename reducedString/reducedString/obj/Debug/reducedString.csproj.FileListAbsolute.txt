@@ -1,0 +1,7 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\reducedString\reducedString\bin\Debug\reducedString.exe.config
+c:\users\mchugg01\documents\visual studio 2017\Projects\reducedString\reducedString\bin\Debug\reducedString.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\reducedString\reducedString\bin\Debug\reducedString.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\reducedString\reducedString\obj\Debug\reducedString.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\reducedString\reducedString\obj\Debug\reducedString.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\reducedString\reducedString\obj\Debug\reducedString.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\reducedString\reducedString\obj\Debug\reducedString.pdb

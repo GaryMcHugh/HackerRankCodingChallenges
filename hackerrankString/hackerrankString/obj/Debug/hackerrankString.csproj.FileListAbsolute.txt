@@ -1,0 +1,7 @@
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\hackerrankString\hackerrankString\bin\Debug\hackerrankString.exe.config
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\hackerrankString\hackerrankString\bin\Debug\hackerrankString.exe
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\hackerrankString\hackerrankString\bin\Debug\hackerrankString.pdb
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\hackerrankString\hackerrankString\obj\Debug\hackerrankString.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\hackerrankString\hackerrankString\obj\Debug\hackerrankString.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\hackerrankString\hackerrankString\obj\Debug\hackerrankString.exe
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\hackerrankString\hackerrankString\obj\Debug\hackerrankString.pdb

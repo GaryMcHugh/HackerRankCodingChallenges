@@ -1,0 +1,7 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\BoomberMan\BoomberMan\bin\Debug\BoomberMan.exe.config
+c:\users\mchugg01\documents\visual studio 2017\Projects\BoomberMan\BoomberMan\bin\Debug\BoomberMan.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\BoomberMan\BoomberMan\bin\Debug\BoomberMan.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\BoomberMan\BoomberMan\obj\Debug\BoomberMan.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\BoomberMan\BoomberMan\obj\Debug\BoomberMan.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\BoomberMan\BoomberMan\obj\Debug\BoomberMan.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\BoomberMan\BoomberMan\obj\Debug\BoomberMan.pdb

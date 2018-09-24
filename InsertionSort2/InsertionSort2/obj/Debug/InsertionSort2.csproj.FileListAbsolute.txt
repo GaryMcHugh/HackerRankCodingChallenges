@@ -1,0 +1,7 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\InsertionSort2\InsertionSort2\bin\Debug\InsertionSort2.exe.config
+c:\users\mchugg01\documents\visual studio 2017\Projects\InsertionSort2\InsertionSort2\bin\Debug\InsertionSort2.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\InsertionSort2\InsertionSort2\bin\Debug\InsertionSort2.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\InsertionSort2\InsertionSort2\obj\Debug\InsertionSort2.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\InsertionSort2\InsertionSort2\obj\Debug\InsertionSort2.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\InsertionSort2\InsertionSort2\obj\Debug\InsertionSort2.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\InsertionSort2\InsertionSort2\obj\Debug\InsertionSort2.pdb

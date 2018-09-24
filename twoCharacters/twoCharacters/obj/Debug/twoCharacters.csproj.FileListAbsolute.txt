@@ -1,0 +1,7 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\obj\Debug\twoCharacters.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\obj\Debug\twoCharacters.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\bin\Debug\twoCharacters.exe.config
+c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\bin\Debug\twoCharacters.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\bin\Debug\twoCharacters.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\obj\Debug\twoCharacters.exe
+c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\obj\Debug\twoCharacters.pdb

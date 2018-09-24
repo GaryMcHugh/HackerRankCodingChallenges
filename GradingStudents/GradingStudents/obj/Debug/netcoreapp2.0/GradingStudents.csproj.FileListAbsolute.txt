@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.0\GradingStudents.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.0\GradingStudents.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.0\GradingStudents.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.0\GradingStudents.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.0\GradingStudents.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.0\GradingStudents.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.0\GradingStudents.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.0\GradingStudents.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.0\GradingStudents.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.0\GradingStudents.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.0\GradingStudents.pdb
