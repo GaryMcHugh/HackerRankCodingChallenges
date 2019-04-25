@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\bin\Debug\netcoreapp2.0\DesignPDFViewer.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\bin\Debug\netcoreapp2.0\DesignPDFViewer.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\bin\Debug\netcoreapp2.0\DesignPDFViewer.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\bin\Debug\netcoreapp2.0\DesignPDFViewer.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\bin\Debug\netcoreapp2.0\DesignPDFViewer.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\obj\Debug\netcoreapp2.0\DesignPDFViewer.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\obj\Debug\netcoreapp2.0\DesignPDFViewer.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\obj\Debug\netcoreapp2.0\DesignPDFViewer.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\obj\Debug\netcoreapp2.0\DesignPDFViewer.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\obj\Debug\netcoreapp2.0\DesignPDFViewer.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\DesignPDFViewer\DesignPDFViewer\obj\Debug\netcoreapp2.0\DesignPDFViewer.pdb

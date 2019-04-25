@@ -5,3 +5,10 @@ c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharact
 c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\bin\Debug\twoCharacters.pdb
 c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\obj\Debug\twoCharacters.exe
 c:\users\mchugg01\documents\visual studio 2017\Projects\twoCharacters\twoCharacters\obj\Debug\twoCharacters.pdb
+C:\Users\mchugg01\Desktop\HackerRank Problems\TwoCharacters\twoCharacters\bin\Debug\twoCharacters.exe.config
+C:\Users\mchugg01\Desktop\HackerRank Problems\TwoCharacters\twoCharacters\bin\Debug\twoCharacters.exe
+C:\Users\mchugg01\Desktop\HackerRank Problems\TwoCharacters\twoCharacters\bin\Debug\twoCharacters.pdb
+C:\Users\mchugg01\Desktop\HackerRank Problems\TwoCharacters\twoCharacters\obj\Debug\twoCharacters.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\TwoCharacters\twoCharacters\obj\Debug\twoCharacters.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\TwoCharacters\twoCharacters\obj\Debug\twoCharacters.exe
+C:\Users\mchugg01\Desktop\HackerRank Problems\TwoCharacters\twoCharacters\obj\Debug\twoCharacters.pdb

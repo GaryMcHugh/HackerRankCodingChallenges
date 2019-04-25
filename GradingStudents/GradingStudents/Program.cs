@@ -1,4 +1,7 @@
-﻿using System;
+﻿//link to problem:
+//https://www.hackerrank.com/challenges/grading/problem
+
+using System;
 using System.IO;
 
 namespace GradingStudents

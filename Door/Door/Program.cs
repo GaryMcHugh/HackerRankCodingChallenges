@@ -1,4 +1,8 @@
-﻿using System;
+﻿//this one is not a hackerrank problem
+//it is the monty hall problem or 'door problem'
+//here is a link decsriobing the puzzle: https://www.montyhallproblem.com/
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -9,8 +13,8 @@ namespace Door
     {
         static void Main(string[] args)
         {
-            RobsWay();
-            return;
+            //RobsWay();
+            //return;
             var count = 0;
             for (int i = 0; i < 1000000; i++)
             {
@@ -41,7 +45,8 @@ namespace Door
                 if (doors[change] == prize)
                     count++;
             }
-            Debug.WriteLine(count);
+            Console.WriteLine(count);
+            Console.ReadLine();
         }
 
         private static void RobsWay()

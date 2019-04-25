@@ -5,3 +5,10 @@ c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndInd
 c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.csproj.CoreCompileInputs.cache
 c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.exe
 c:\users\mchugg01\documents\visual studio 2017\Projects\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.pdb
+C:\Users\mchugg01\Desktop\HackerRank Problems\SumsAndIndexs\SumsAndIndexs\bin\Debug\SumsAndIndexs.exe.config
+C:\Users\mchugg01\Desktop\HackerRank Problems\SumsAndIndexs\SumsAndIndexs\bin\Debug\SumsAndIndexs.exe
+C:\Users\mchugg01\Desktop\HackerRank Problems\SumsAndIndexs\SumsAndIndexs\bin\Debug\SumsAndIndexs.pdb
+C:\Users\mchugg01\Desktop\HackerRank Problems\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.exe
+C:\Users\mchugg01\Desktop\HackerRank Problems\SumsAndIndexs\SumsAndIndexs\obj\Debug\SumsAndIndexs.pdb

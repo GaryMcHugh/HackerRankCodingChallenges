@@ -1,4 +1,7 @@
-﻿using System;
+﻿//link to problem:
+//https://www.hackerrank.com/challenges/mini-max-sum/problem
+
+using System;
 using System.Linq;
 
 namespace minMaxSum

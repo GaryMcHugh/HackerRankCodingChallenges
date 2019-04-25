@@ -1,4 +1,9 @@
-﻿using System;
+﻿//this one is not from hackerrank but I thought it was cool
+
+// we take an array and determine if there is anyway to split that array and sum it in a way that two parts will equal
+// i.e. { 3, 1, 1, 1 } if we split this array after the 3 then and sum each side.. they will be equal.
+
+using System;
 
 namespace ArraySplitting
 {

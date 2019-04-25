@@ -1,4 +1,7 @@
-﻿using System;
+﻿//link to problem(InComplete):
+//https://www.hackerrank.com/challenges/bomber-man/problem
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;

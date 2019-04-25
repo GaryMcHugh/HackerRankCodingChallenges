@@ -1,0 +1,11 @@
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\bin\Debug\netcoreapp2.0\BigSort.deps.json
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\bin\Debug\netcoreapp2.0\BigSort.runtimeconfig.json
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\bin\Debug\netcoreapp2.0\BigSort.runtimeconfig.dev.json
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\bin\Debug\netcoreapp2.0\BigSort.dll
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\bin\Debug\netcoreapp2.0\BigSort.pdb
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\obj\Debug\netcoreapp2.0\BigSort.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\obj\Debug\netcoreapp2.0\BigSort.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\obj\Debug\netcoreapp2.0\BigSort.AssemblyInfoInputs.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\obj\Debug\netcoreapp2.0\BigSort.AssemblyInfo.cs
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\obj\Debug\netcoreapp2.0\BigSort.dll
+C:\Users\mchugg01\Desktop\HackerRank Problems\BigSort\BigSort\obj\Debug\netcoreapp2.0\BigSort.pdb

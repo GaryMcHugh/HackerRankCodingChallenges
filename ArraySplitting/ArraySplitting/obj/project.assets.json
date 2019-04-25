@@ -7037,29 +7037,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mchugg01\\.nuget\\packages\\": {}
+    "C:\\Users\\mchugg01\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\mchugg01\\Documents\\Visual Studio 2017\\Projects\\ArraySplitting\\ArraySplitting\\ArraySplitting.csproj",
+      "projectUniqueName": "C:\\Users\\mchugg01\\Desktop\\HackerRank Problems\\ArraySplitting\\ArraySplitting\\ArraySplitting.csproj",
       "projectName": "ArraySplitting",
-      "projectPath": "C:\\Users\\mchugg01\\Documents\\Visual Studio 2017\\Projects\\ArraySplitting\\ArraySplitting\\ArraySplitting.csproj",
+      "projectPath": "C:\\Users\\mchugg01\\Desktop\\HackerRank Problems\\ArraySplitting\\ArraySplitting\\ArraySplitting.csproj",
       "packagesPath": "C:\\Users\\mchugg01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mchugg01\\Documents\\Visual Studio 2017\\Projects\\ArraySplitting\\ArraySplitting\\obj\\",
+      "outputPath": "C:\\Users\\mchugg01\\Desktop\\HackerRank Problems\\ArraySplitting\\ArraySplitting\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\mchugg01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "http://10.32.150.62/nuget/Default": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -7067,6 +7070,11 @@
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -7074,7 +7082,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.1.2",
+            "version": "[1.1.2, )",
             "autoReferenced": true
           }
         }

@@ -1,4 +1,9 @@
-﻿using System;
+﻿//this is not a hackerrank problem
+// here we have a sum and an array
+// we find all the possible ways to add two numbers together in that array to equal the sum
+// we print the indexes of each successful sum
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.ExceptionServices;

@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "arraysplitting/1.0.0": {
+      "ArraySplitting/1.0.0": {
         "runtime": {
           "ArraySplitting.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "arraysplitting/1.0.0": {
+    "ArraySplitting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

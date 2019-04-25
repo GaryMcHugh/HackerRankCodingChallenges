@@ -1,4 +1,7 @@
-﻿using System;
+﻿//link to problem:
+//ttps://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+
+using System;
 
 namespace breakingRecords
 {

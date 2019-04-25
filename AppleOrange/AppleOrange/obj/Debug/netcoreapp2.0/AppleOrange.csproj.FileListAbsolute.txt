@@ -1,0 +1,22 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.pdb
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.deps.json
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.runtimeconfig.json
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.runtimeconfig.dev.json
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.dll
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\bin\Debug\netcoreapp2.0\AppleOrange.pdb
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.AssemblyInfoInputs.cache
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.AssemblyInfo.cs
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.dll
+C:\Users\mchugg01\Desktop\HackerRank Problems\AppleOrange\AppleOrange\obj\Debug\netcoreapp2.0\AppleOrange.pdb

@@ -1,4 +1,7 @@
-﻿using System;
+﻿//link to problem:
+//https://www.hackerrank.com/challenges/reduced-string/problem
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

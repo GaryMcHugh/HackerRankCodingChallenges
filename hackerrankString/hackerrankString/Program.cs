@@ -1,4 +1,7 @@
-﻿using System;
+﻿//link to problem:
+//https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
+
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;

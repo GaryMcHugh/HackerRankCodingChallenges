@@ -1,4 +1,7 @@
-﻿using NUnit.Framework;
+﻿//this is not a hackerrank problem
+//this is the prime factors problem with a Unit Test
+
+using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 

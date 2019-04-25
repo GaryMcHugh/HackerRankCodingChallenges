@@ -1,0 +1,11 @@
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\bin\Debug\netcoreapp2.0\sockPairs.deps.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\bin\Debug\netcoreapp2.0\sockPairs.runtimeconfig.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\bin\Debug\netcoreapp2.0\sockPairs.runtimeconfig.dev.json
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\bin\Debug\netcoreapp2.0\sockPairs.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\bin\Debug\netcoreapp2.0\sockPairs.pdb
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\obj\Debug\netcoreapp2.0\sockPairs.csprojResolveAssemblyReference.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\obj\Debug\netcoreapp2.0\sockPairs.csproj.CoreCompileInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\obj\Debug\netcoreapp2.0\sockPairs.AssemblyInfoInputs.cache
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\obj\Debug\netcoreapp2.0\sockPairs.AssemblyInfo.cs
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\obj\Debug\netcoreapp2.0\sockPairs.dll
+c:\users\mchugg01\documents\visual studio 2017\Projects\sockPairs\sockPairs\obj\Debug\netcoreapp2.0\sockPairs.pdb

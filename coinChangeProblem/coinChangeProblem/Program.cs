@@ -1,4 +1,7 @@
-﻿using System;
+﻿//link to problem: (InComplete)
+//https://www.hackerrank.com/challenges/coin-change/problem
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
