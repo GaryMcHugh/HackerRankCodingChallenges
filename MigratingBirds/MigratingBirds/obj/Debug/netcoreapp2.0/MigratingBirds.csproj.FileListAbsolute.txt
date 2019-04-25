@@ -1,0 +1,11 @@
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\bin\Debug\netcoreapp2.0\MigratingBirds.deps.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\bin\Debug\netcoreapp2.0\MigratingBirds.runtimeconfig.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\bin\Debug\netcoreapp2.0\MigratingBirds.runtimeconfig.dev.json
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\bin\Debug\netcoreapp2.0\MigratingBirds.dll
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\bin\Debug\netcoreapp2.0\MigratingBirds.pdb
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\obj\Debug\netcoreapp2.0\MigratingBirds.csprojResolveAssemblyReference.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\obj\Debug\netcoreapp2.0\MigratingBirds.csproj.CoreCompileInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\obj\Debug\netcoreapp2.0\MigratingBirds.AssemblyInfoInputs.cache
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\obj\Debug\netcoreapp2.0\MigratingBirds.AssemblyInfo.cs
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\obj\Debug\netcoreapp2.0\MigratingBirds.dll
+C:\Users\mchugg01\Documents\Visual Studio 2017\Projects\MigratingBirds\MigratingBirds\obj\Debug\netcoreapp2.0\MigratingBirds.pdb
